@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Senior data scientist di Ruangguru.
+Senior Data Scientist di Ruangguru.
 
 Pernah menyelesaikan studi master di bidang Artificial Intelligence di University of Amsterdam dengan topik thesis real-time 3D Facial Landmark Detection di bawah supervisi Prof. Theo Gevers and Sezer Karaoglu.
 
