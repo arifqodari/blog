@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Currently I am a senior Data Scientist at [Ruangguru](ruangguru.com).
+Currently I am a senior Data Scientist at [Ruangguru](https://www.ruangguru.com/).
 Before Ruangguru, I was Data Scientist at [Sale Stock Indonesia](https://www.sorabel.com/).
 I started my professional career as Technical Support at Colorlabs and Company for 1.5 years.
 Then I move on to Software Engineering at [WGS](https://www.wgs.co.id/) for 2 years.
