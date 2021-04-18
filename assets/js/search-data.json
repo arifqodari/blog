@@ -7,7 +7,7 @@
   
       "page1": {
           "title": "About Me",
-          "content": "Senior Data Scientist di Ruangguru. . Pernah menyelesaikan studi master di bidang Artificial Intelligence di University of Amsterdam dengan topik thesis real-time 3D Facial Landmark Detection di bawah supervisi Prof. Theo Gevers and Sezer Karaoglu. . Curriculum Vitae(https://www.dropbox.com/s/r2g32zwrg2a1co2/Qodari_CV.pdf). . Email: {lastname}@fastmail.com .",
+          "content": "Currently I am a senior Data Scientist at Ruangguru. Before Ruangguru, I was Data Scientist at Sale Stock Indonesia. I started my professional career as Technical Support at Colorlabs and Company for 1.5 years. Then I move on to Software Engineering at WGS for 2 years. . I graduated with MSc in Artificial Intelligence from University of Amsterdam. My master theses is about real-time 3D Facial Landmark Detection. . I am interested in Artificial Intelligence, especially in the applied Machine Learning to Computer Vision. My complete CV. . Email: {lastname}@fastmail.com .",
           "url": "https://arifqodari.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
